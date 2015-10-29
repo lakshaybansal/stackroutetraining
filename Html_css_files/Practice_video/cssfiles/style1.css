@@ -1,0 +1,18 @@
+.quotes
+{
+  border-width:thick !important;
+  border-style: solid;
+  border-color:white;
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+  margin:20px;
+}
+#center
+{
+  margin:auto;
+  width:500px;
+background-color:yellow;
+padding-top: 10px;
+padding-bottom:10px;
+
+}
