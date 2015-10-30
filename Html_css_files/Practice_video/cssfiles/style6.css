@@ -1,0 +1,27 @@
+
+article img
+{
+  float:left;
+  margin-left: 10px;
+}
+ul
+{
+
+}
+li
+{
+  display:inline;
+}
+li{
+  font-family:serif;
+  font-size: 15px;
+  font-style: oblique;
+  padding-right: 5px;
+}
+.bullet:after {
+  content: "|";
+}
+#sublime
+{
+  font-size:20px;
+}
